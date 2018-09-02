@@ -88,7 +88,7 @@ object ObjectOrientedProgramming extends ScalaTutorialSection {
    *   n1 / d1 + n2 / d2 = (n1 * d2 + n2 * d1) / (d1 * d2)
    *   n1 / d1 - n2 / d2 = (n1 * d2 - n2 * d1) / (d1 * d2)
    *   n1 / d1 * n2 / d2 = (n1 * n2) / (d1 * d2)
-   *   n1 / d1 / n2 / d2 = (n1 * d2) / (d1 * n2)
+   *   (n1 / d1) / (n2 / d2) = (n1 * d2) / (d1 * n2)
    *   n1 / d1 = n2 / d2 iff n1 * d2 = d1 * n2
    * }}}
    *
